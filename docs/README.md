@@ -1,0 +1,2 @@
+# SailingForecast
+Sailing forecast data
