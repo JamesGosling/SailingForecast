@@ -1,10 +1,10 @@
-On Thursday, January twenty-fourth.
+On Friday, February first.
  This is the Sailing Forecast for Inside SanFrancisco Bay.
- San Pablo Bay: Cool, clear skies, Smooth seas with Gentle breezes from the North.
- Shag Rock: Cool, clear skies, Moderate seas with Gentle breezes.
- South End: Cool, clear skies, Smooth seas with Gentle breezes.
+ San Pablo Bay: Cool, overcast, Smooth seas with Gentle breezes from the Southwest becoming light rain with Moderate breezes from the Southeast in the afternoon.
+ Shag Rock: Cool, overcast, Moderate seas with Gentle breezes becoming light rain with Moderate breezes in the afternoon.
+ South End: Cool, overcast, Smooth seas with Gentle breezes becoming light rain with Moderate breezes in the afternoon.
  Along the Pacific Coast.
- Four Fathom Bank: Cool, clear skies, Moderate seas with Gentle breezes.
- the Farallons: Cool, clear skies, Moderate seas with Moderate breezes.
- Maverick's: Cool, clear skies, Moderate seas with Gentle breezes.
- Monteray Bay: Mild, clear skies, Moderate seas with Gentle breezes from the Northeast.
+ Four Fathom Bank: Cool, overcast, Moderate seas with Gentle breezes becoming Moderate breezes in the afternoon.
+ the Farallons: Cool, overcast, Moderate seas with Moderate breezes becoming light rain with Fresh breezes in the afternoon.
+ Maverick's: Cool, overcast, Moderate seas with Gentle breezes becoming Moderate breezes in the afternoon.
+ Monteray Bay: Cool, cloudy, Moderate seas with Gentle breezes becoming overcast, light rain with Moderate breezes in the afternoon.
