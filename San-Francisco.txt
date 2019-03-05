@@ -1,10 +1,10 @@
-On Monday, March fourth.
+On Tuesday, March fifth.
  This is the Sailing Forecast for Inside SanFrancisco Bay.
- San Pablo Bay: Cool, overcast, Smooth seas with Gentle breezes from the West becoming cloudy with Light breezes in the afternoon.
- Shag Rock: Cold, overcast, Slight seas with Gentle breezes from the Southwest becoming Cool, cloudy with Light breezes in the afternoon.
- South End: Cold, overcast, Smooth seas with Gentle breezes becoming Cool, cloudy with Light breezes in the afternoon.
+ San Pablo Bay: Cold, overcast, Smooth seas with Light breezes from the North becoming Cool, light rain with Gentle breezes from the East in the afternoon.
+ Shag Rock: Cold, overcast, light rain, Slight seas with Light breezes becoming Cool with Gentle breezes in the afternoon.
+ South End: Cold, overcast, light rain, Smooth seas with Light breezes becoming Cool with Gentle breezes in the afternoon.
  Along the Pacific Coast.
- Four Fathom Bank: Cold, overcast, Slight seas with Gentle breezes becoming Cool, cloudy with Light breezes in the afternoon.
- the Farallons: Cold, overcast, Moderate seas with Moderate breezes becoming Gentle breezes in the afternoon.
- Maverick's: Cold, overcast, Slight seas with Gentle breezes becoming Cool, cloudy with Light breezes in the afternoon.
- Monteray Bay: Cold, overcast, Moderate seas with Gentle breezes becoming Cool, cloudy with Slight seas in the afternoon.
+ Four Fathom Bank: Cold, overcast, light rain, Slight seas with Light breezes becoming Cool with Gentle breezes in the afternoon.
+ the Farallons: Cool, overcast, light rain, Slight seas with Light breezes becoming Gentle breezes in the afternoon.
+ Maverick's: Cold, overcast, light rain, Slight seas with Light breezes becoming Cool with Gentle breezes in the afternoon.
+ Monteray Bay: Cold, overcast, heavy rain, Slight seas with Light breezes from the Northwest becoming Cool with Gentle breezes in the afternoon.
