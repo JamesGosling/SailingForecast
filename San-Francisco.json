@@ -1,6 +1,6 @@
 {
 	"uid": "urn:uuid:SailingForcast-1014308429",
-	"updateDate": "2019-04-13T01:00:18.539560Z",
+	"updateDate": "2019-04-13T05:00:09.437883Z",
 	"titleText": "The Sailing Forecast for San Francisco",
 	"mainText": "",
 	"streamUrl": "https://raw.githubusercontent.com/JamesGosling/SailingForecast/master/San-Francisco.mp3",
