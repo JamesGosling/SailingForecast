@@ -1,10 +1,10 @@
 On Monday, June tenth.
  This is the Sailing Forecast for Inside SanFrancisco Bay.
- San Pablo Bay: Warm, scattered clouds, Slight seas with Moderate breezes from the North becoming Hot, Smooth seas with Gentle breezes from the Northeast in the afternoon.
- Shag Rock: Hot, cloudy, Slight seas with Gentle breezes becoming Very hot in the afternoon.
- South End: Hot, cloudy, Smooth seas with Gentle breezes becoming Very hot with Slight seas in the afternoon.
+ San Pablo Bay: Warm, scattered clouds, Slight seas with Moderate breezes from the North becoming Hot, cloudy, Smooth seas with Gentle breezes from the Northeast in the afternoon.
+ Shag Rock: Hot, overcast, Smooth seas with Gentle breezes becoming Very hot with Slight seas in the afternoon.
+ South End: Hot, overcast, Smooth seas with Gentle breezes becoming Very hot in the afternoon.
  Along the Pacific Coast.
- Four Fathom Bank: Hot, cloudy, Slight seas with Gentle breezes becoming Very hot in the afternoon.
- the Farallons: Warm, cloudy, Slight seas with Moderate breezes becoming overcast with Gentle breezes in the afternoon.
- Maverick's: Hot, cloudy, Slight seas with Gentle breezes becoming Very hot in the afternoon.
- Monteray Bay: Warm, overcast, Slight seas with Gentle breezes becoming Moderate breezes in the afternoon.
+ Four Fathom Bank: Hot, overcast, Slight seas with Gentle breezes becoming Very hot in the afternoon.
+ the Farallons: Warm, overcast, Slight seas with Moderate breezes becoming Gentle breezes in the afternoon.
+ Maverick's: Hot, overcast, Slight seas with Gentle breezes becoming Very hot in the afternoon.
+ Monteray Bay: Warm, overcast, Slight seas with Gentle breezes=>.
